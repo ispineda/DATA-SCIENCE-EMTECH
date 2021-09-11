@@ -1,1 +1,1 @@
-Proyecto caso práctico **LifeStore** 
+# Proyecto 01 - caso práctico **LifeStore** 
