@@ -1,2 +1,2 @@
 # DATA-SCIENCE-EMTECH
-Portafolio de proyectos
+Portafolio de actividades
