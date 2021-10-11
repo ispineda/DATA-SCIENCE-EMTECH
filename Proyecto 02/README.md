@@ -10,15 +10,23 @@ ello, se plantea analizar la viabilidad de 3 opciones de enfoque: rutas de impor
 exportaciones. Considerando que eres el data analyst del equipo, se te solicita que realices un análisis de los siguientes puntos e identifiques cuál(es) de ellos es la 
 mejor opción para la empresa:
 
-***Opción 1)*** Rutas de importación y exportación. Synergy logistics está considerando la posibilidad de enfocar sus esfuerzos en las 10 rutas más 
-demandadas. Acorde a los flujos de importación y exportación, ¿cuáles son esas 10 rutas? ¿le conviene implementar esa estrategia? ¿porqué? 
+***Opción 1)*** **Rutas de importación y exportación**. Synergy logistics está considerando la posibilidad de enfocar sus esfuerzos en las 10 rutas más 
+demandadas. Acorde a los flujos de importación y exportación. 
 
-***Opción 2)*** Medio de transporte utilizado. ¿Cuáles son los 3 medios de transporte más importantes para Synergy logistics considerando el valor de las 
-importaciones y exportaciones? ¿Cuál es medio de transporte que podrían reducir? 
+* ¿Cuáles son esas 10 rutas? 
+* ¿Le conviene implementar esa estrategia? 
+* ¿Porqué? 
+
+***Opción 2)*** **Medio de transporte utilizado**. 
+
+* ¿Cuáles son los 3 medios de transporte más importantes para Synergy logistics considerando el valor de las importaciones y exportaciones? 
+* ¿Cuál es medio de transporte que podrían reducir? 
 
 ***Opción 3)*** Valor total de importaciones y exportaciones. Si Synergy Logistics quisiera enfocarse en los países que le generan el 80% del valor de las 
-exportaciones e importaciones ¿en qué grupo de países debería enfocar sus esfuerzos?
+exportaciones e importaciones 
 
-A partir del análisis de las opciones anteriores, ¿Cuál opción u opciones es conveniente implementar como base en la estrategia? 
+* ¿En qué grupo de países debería enfocar sus esfuerzos?
+
+A partir del análisis de las opciones anteriores, **¿Cuál opción u opciones es conveniente implementar como base en la estrategia?**
 
 
