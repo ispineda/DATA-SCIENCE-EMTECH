@@ -1,4 +1,4 @@
-# ***Se recomienda abrir el archivo .ipynb con Google Colab para ver las gráficas. El archivo .py sólo cuenta con las tablas.***
+### ***Se recomienda abrir el archivo .ipynb con Google Colab para ver las gráficas. El archivo .py sólo cuenta con las tablas.***
 
 ## **Caso práctico Synergy Logistics**
 
